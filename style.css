@@ -1,0 +1,147 @@
+.border-heading{
+  border: 1px solid orange;
+  padding: 15px;
+  margin: 0%;
+  
+}
+
+.bordered-heading {
+  border: 1px solid orange;
+  padding: 15px;
+  margin: 0%;
+  
+
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: center; /* centers buttons horizontally */
+  gap: 15px; /* space between buttons */
+  margin: 20px 0;
+}
+
+
+p {
+    color: rgb(8, 8, 8);
+    margin-block: 5px;
+    padding: 0 20px;
+    line-height: 1.6;
+    font-size: 1.1em; 
+    height: auto;
+}
+
+
+body {
+    background-color: rgb(188, 156, 102);
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+}
+  
+  .container {
+    margin: 100px 0 0 200px;
+    width: 70%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+   
+}
+
+  .container img {
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(17, 17, 17, 0.684);
+    transition: all 0.3s ease-in-out;
+}
+  
+  .container img:hover {
+    width: 65%;
+}
+  
+footer {
+    background-color: rgb(240, 234, 218);
+    padding: 2px;
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+
+h1{
+    color: rgb(231, 157, 19);
+    border: 1;
+    border-color: azure;
+    font: weight 1000px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: center; /* centers buttons horizontally */
+  gap: 15px; /* space between buttons */
+  margin: 20px 0;
+}
+
+
+.main-text {
+    color: rgb(8, 8, 8);
+    margin-block: 50px;
+    padding: 0 20px;
+    line-height: 1.6;
+    font-size: 1.1em; 
+}
+
+
+body {
+    background-color: beige;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+}
+  
+  .container {
+    margin: 100px 0 0 200px;
+    width: 70%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+  
+  .container img {
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(17, 17, 17, 0.684);
+    transition: all 0.3s ease-in-out;
+}
+  
+  .container img:hover {
+    width: 65%;
+}
+  
+footer {
+    background-color: rgb(249, 193, 90);
+    padding: 2px;
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+
