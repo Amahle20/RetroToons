@@ -1,6 +1,6 @@
 RetroToons
 
-RetroToons is a nostalgic webpage that showcases classic and modern cartoon characters that shaped many childhoods. Built using simple HTML and CSS, the site features image galleries, fun facts, and **embedded YouTube videos** to bring back fond cartoon memories.
+RetroToons is a nostalgic website that showcases classic and modern cartoon characters that shaped many childhoods. Built using simple HTML and CSS, the site features image galleries, fun facts, and embedded YouTube videos to bring back fond cartoon memories.
 
  Features
 
